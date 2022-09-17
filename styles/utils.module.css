@@ -1,0 +1,9 @@
+/* flex */
+.flexBase {
+  display: flex;
+  flex-direction: column;
+}
+.flexItemsCenter {
+  display: flex;
+  align-items: center;
+}
