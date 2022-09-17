@@ -1,7 +1,12 @@
-.header nav {
+.nav {
   background-color: white;
+  width: 100%;
+  display: flex;
 }
 .logo {
   width: 51px;
   height: 51px;
+}
+.navItems {
+  flex-shrink: 1;
 }
